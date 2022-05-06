@@ -1,6 +1,6 @@
 
-var app_id = 'your_app_id'           // id do app criado no facebook
-var pagForShared = 'link_for_shared' // pagina que sera compartilhada no perfil do usuario
+var app_id = '1596587174011007'           // id do app criado no facebook
+var pagForShared = 'facebook.com/istvdigital' // pagina que sera compartilhada no perfil do usuario
 
 var userInMk = ''                    // usuario e senha configurado no serviço de hotspot mikrotik
 var passInMK = ''
